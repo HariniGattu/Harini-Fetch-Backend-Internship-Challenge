@@ -1,0 +1,36 @@
+Part 2
+
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I have choosed
+Tools: IntelliJ idea, Gradel, Springboot.
+Libraries: I have used springboot, spring and java collections framework libraries for building this exercise.
+Language: i used java 17 version as my language.
+I have used the above Tools because
+IntelliJ: Rich Set of Features: IntelliJ IDEA offers a various features that make development more efficient and productive.
+ It has strong code analysis, debugging tools, version control integration, and rich support for java language and frameworks.
+Spring Framework Integration: IntelliJ IDEA provides best integration with the Spring Framework, which is why it is  used for building Java-based enterprise applications, including Spring Boot applications.
+ It helps with like  code generation, and quick navigation for Spring-specific components.
+Gradle: make it easy for the process of managing project dependencies. It allows developers to declare dependencies in a clear and concise way, 
+typically in a build.gradle file, help to include libraries and frameworks required for REST API development.
+Spring Boot: It comes with embedded web servers like Tomcat helping to package your REST API as a self-contained executable JAR or WAR file.This makes easy deployment and eliminates the need to set up and configure an external web server. Spring Boot easily integrates with the broader Spring ecosystem, including Spring MVC for building RESTful endpoints. This means you can leverage the power of Spring's features like dependency injection, AOP, and data access for building robust and maintainable APIs.
+I have used Java as my Language because Java: It has a large set of libraries, frameworks, and tools that can be used to simplify REST API development.  This large ecosystem  includes libraries for JSON processing (e.g., Jackson), HTTP clients (e.g., Apache HttpClient), and various frameworks (e.g., Spring Boot) that helps to build and deploy RESTful services.
+
+
+
+2. What are the advantages and disadvantages of your solution?
+In my solution I have used java as the programming language and springboot framework for developing it. Because 
+Java is platform-independent, that means once the  code written in Java you can run on any platform with a Java Virtual Machine (JVM). This provides so much portability in deployment.
+Java and Spring Boot are has rich set of libraries, frameworks, and tools. This large ecosystem makes it easier  test, and maintain RESTful APIs.
+Java is a statically typed language, Static typing helps with  code safety and decreases the chance of unexpected issues.
+Java and Spring Boot has strong dependency management tools. Spring Boot's integration with tools like Gradle and maven helps . easy dependency management and building applications.
+Disadvantages:
+Since I have used java, it consumes more memory and number of lines of code is more complex.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+By far my most favorite personal project is to develop a food menu generator, where I have to analyse and develop an application for real cause that is happening in the food dining place at the university. This project is to develop a food menu generator where students have to give their food menu preferences that he want to have to the chef. And the chef has to cook the most preferred item for that day so that food wastage has to be decreased. So I have to computerize and build an application that helps students to login and collect their food preferences for that day. And run an algorithm on the results to find most preffered item and cook that particular dish on that day.
+So I have to develop this application from scratch where I have to plan design the application and select a particular languages , framework which would suit this problem.
+So initially I faced lots of issue designing solution and selecting a language, framework on my own.
+So it is a real time problem and has to follow all the software development lifecycle and complete it.
+So I faced challenge selecting a language and implementing it using the language’s framework. But finally I have completed it.
+
+ 

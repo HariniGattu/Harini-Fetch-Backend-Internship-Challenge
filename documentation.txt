@@ -1,0 +1,22 @@
+Documentation:
+
+
+Here i have used Java 17 as my language and used gradle repository and IntelliJ tool to build it.
+
+First i have created file name Demo Controller, which has api calls to all /add, /balance, /spend methods. It is main controller class which redirects to particular class.
+I have created 3 model objects called
+1. add request( which has variables as payer, timestamp, points)
+2. spend request(which has variable of points)
+3. spend response(has variables as payer, points)
+
+Then i have stored the values using Arraylists and added for each new entry.
+
+in the java class named DemoService their are 3 methods
+1. add mehod which will add the payer, timestamp, points details
+2. spend method which will spend the points based on timestamp
+3. balance method which will show the remaining balance. 
+
+In order to run this code one need to have java 17, intellij, gradle.
+
+
+ 
